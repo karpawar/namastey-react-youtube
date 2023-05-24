@@ -5,7 +5,6 @@ import Header from './components/Header';
 function App() {
   return (
     <div>
-      <h1 className='text-3xl'>Youtube App</h1>
       <Header />
       <Body />
       {/* 
